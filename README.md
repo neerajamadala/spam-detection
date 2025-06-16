@@ -40,9 +40,8 @@ To build a machine learning model that accurately classifies SMS messages as **s
 
 ### **Models Implemented:**
 
-1. **Logistic Regression**
-2. **Support Vector Machine (SVM)**
-3. **Random Forest Classifier**
+1. **Support Vector Machine (SVM)**
+2. **Random Forest Classifier**
 
 ---
 
